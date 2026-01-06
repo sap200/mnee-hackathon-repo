@@ -6,6 +6,13 @@ The project was created as part of a hackathon submission under the **Commerce &
 
 ---
 
+## Repository Note
+
+This project was originally developed using a GitHub organization-based structure, with all five core components maintained as independent repositories. The original organization and its repositories can be viewed here:  
+https://github.com/orgs/rapyd-mnee-payment-gateway/repositories
+
+For this hackathon submission, the project was consolidated into a single monorepo to simplify review, setup, and evaluation for judges.
+
 ## 🎥 Project Demonstration
 
 A full end-to-end demonstration of the project is provided in the accompanying video.
