@@ -19,6 +19,8 @@ For this hackathon submission, the project was consolidated into a single monore
 
 A full end-to-end demonstration of the project is provided in the accompanying video.
 
+The project is currently using sandbox mode of MNEE, and can be deployed for production by configuring the mnee-service's configuration, and will be fully functional.
+
 Otherwise, you can try the system directly using the links below. **Everything is already installed, deployed, and configured.**
 
 The system is fully deployed.
