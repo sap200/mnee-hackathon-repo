@@ -13,6 +13,8 @@ https://github.com/orgs/rapyd-mnee-payment-gateway/repositories
 
 For this hackathon submission, the project was consolidated into a single monorepo to simplify review, setup, and evaluation for judges.
 
+---
+
 ## 🎥 Project Demonstration
 
 A full end-to-end demonstration of the project is provided in the accompanying video.
